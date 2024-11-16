@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meublio</title>
+    <link rel="stylesheet" href="/src/styles/style.css" />
+    <script type="module" src="/src/main.js" defer></script>
+  </head>
+
+  <body>
+    <nav class="site-nav">
+      <div id="nav"></div>
+    </nav>
+
+    <div class="main-container flex justify-center items-center">
+      <div class="category-container"></div>
+
+      <div class="filter-container"></div>
+    </div>
+
+    <form class="filter-form flex justify-center items-center">
+      <select id="select-filter-matiere">
+        <option value="" disabled selected hidden>Matière</option>
+        <option value="bois">Bois</option>
+        <option value="acier">Acier</option>
+        <option value="cuir">Cuir</option>
+        <option value="plastique">Plastique</option>
+        <option value="tissus">Tissus</option>
+      </select>
+
+      <select id="select-filter-couleur">
+        <option value="" disabled selected hidden>Couleur</option>
+        <option value="rouge">Rouge</option>
+        <option value="vert">Vert</option>
+        <option value="Bleue">Bleue</option>
+        <option value="noir">Noir</option>
+        <option value="marron">Marron</option>
+        <option value="blanc">Blanc</option>
+        <option value="gris">Gris</option>
+        <option value="rose">Rose</option>
+        <option value="violet">Violet</option>
+        <option value="orange">Orange</option>
+      </select>
+
+      <select id="select-filter-etat-produits">
+        <option value="" disabled selected hidden>Etat du produit</option>
+        <option value="neuf">Neuf</option>
+        <option value="tres-bon-etat">Très bon état</option>
+        <option value="bon-etat">bon état</option>
+        <option value="satisfaisant">Satisfaisant</option>
+        <option value="inutilisable">Inutilisable</option>
+      </select>
+
+      <select id="select-filter-trier-par">
+        <option value="trier-par" disabled selected hidden>Trier par</option>
+        <option value="en-vedette">En vedette</option>
+        <option value="les-plus-recents">Les plus récents</option>
+        <option value="prix-decroissant">Prix : Décroissant</option>
+        <option value="prix-decroissant">Prix : Croissant</option>
+      </select>
+    </form>
+
+    <div class="grid-container" id="cartes"></div>
+
+    <footer class="site-footer flex justify-center">
+      <div class="list-footer">
+        <ul>
+          <li>© 2024 Meublio</li>
+          <!-- <li><a href="terms.html">Terms</a></li>
+          <li><a href="privacy.html">Privacy</a></li>
+          <li><a href="cookies.html">Cookies</a></li>
+        </ul>
+      </div>
+
+      <div class="social-links-footer">
+        <a href="" target="_blank">
+          <img class="icon" src="instagram-icon.png" alt="Instagram" />
+        </a>
+        <a href="" target="_blank">
+          <img class="icon" src="facebook-icon.png" alt="Facebook" />
+        </a>
+        <a href="" target="_blank">
+          <img class="icon" src="x-icon.png" alt="X" /> -->
+        </a>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#titre-panier {
+  font-size: 1.6em;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  text-rendering: optimizeSpeed;
+  width: 100%;
+}
+
+#basket-fiche p {
+  font-family: "Futura", sans-serif;
+  margin-bottom: 1.3em;
+  margin-top: 0;
+}
