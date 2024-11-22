@@ -1,7 +1,7 @@
 meublio
 
 ## À propos 
-Ce projet collectif a pour objectif de créer une plateforme de gestion pour un magasin de meubles.
+Ce projet a pour objectif de créer une plateforme de gestion pour un magasin de meubles.
 Le but est de mettre en place une organisation efficace et collaborative pour mener à bien la création de ce produit.
 L'objectif principal est donc de concevoir un site web fonctionnel à partir de zéro, en respectant des contraintes de création spécifiques.
 La plateforme permettra aux utilisateurs de s'inscrire, de consulter le stock de meubles, et d'interagir avec celui-ci. Cela inclut la possibilité de filtrer, rechercher, et ajouter des articles au panier. 
