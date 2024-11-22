@@ -13,7 +13,7 @@ Les utilisateurs pourront également voir les informations détaillées sur chaq
 
 Nombre de participants : 10
 
-Technologies : JavaScript, TypeScript, HTML, CSS, React, Tailwind CSS, Vite.js, Node.js, Express, MySql
+Technologies : JavaScript, TypeScript, HTML, CSS, React, Tailwind CSS, Vite.js, Node.js, Express, MySQL
 
 Refactorisé : Oui
 
