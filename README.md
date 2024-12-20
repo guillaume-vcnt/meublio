@@ -1,6 +1,7 @@
-meublio
+Meublio.
 
-## À propos 
+## À propos
+
 Ce projet a pour objectif de créer une plateforme de gestion pour un magasin de meubles.
 Le but est de mettre en place une organisation efficace et collaborative pour mener à bien la création de ce produit.
 L'objectif principal est donc de concevoir un site web fonctionnel à partir de zéro, en respectant des contraintes de création spécifiques.
@@ -13,7 +14,7 @@ Les utilisateurs pourront également voir les informations détaillées sur chaq
 
 Nombre de participants : 10
 
-Technologies : JavaScript, TypeScript, HTML, CSS, React, Tailwind CSS, Vite.js, Node, Express, MySQL
+Technologies : JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Node, Express, MySQL
 
 Refactorisé : Oui
 
@@ -27,4 +28,4 @@ OS : Windows
 
 ## Utilisation 
 
-S'exécute via un localhost
+S'exécute via localhost
