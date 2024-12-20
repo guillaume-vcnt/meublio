@@ -16,9 +16,9 @@ Nombre de participants : 10
 
 Technologies : JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Node, Express, MySQL
 
-Refactorisé : Oui
+Refactorisé : 
 
-Responsive : Non
+Responsive : 
 
 UI/UX : Oui
 
