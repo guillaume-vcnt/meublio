@@ -18,7 +18,7 @@ Technologies : JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Node, Exp
 
 Refactorisé : Oui
 
-Responsivité : Non
+Responsive : Non
 
 UI/UX : Oui
 
